@@ -70,6 +70,7 @@ export default function Home(): JSX.Element {
             <h2 className={inter.className}>
               Docs <span>-&gt;</span>
             </h2>
+            <p>Test</p>
             <p className={inter.className}>
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
