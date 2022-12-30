@@ -74,6 +74,7 @@ export default function Home(): JSX.Element {
             <p className={inter.className}>
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
+            <p>test</p>
           </a>
 
           <a
